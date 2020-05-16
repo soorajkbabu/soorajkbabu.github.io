@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haptics | Sooraj K Babu</title>
+    <link>https://soorajkbabu.github.io/category/haptics/</link>
+      <atom:link href="https://soorajkbabu.github.io/category/haptics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haptics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 23:54:34 +0530</lastBuildDate>
+    <image>
+      <url>https://soorajkbabu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Haptics</title>
+      <link>https://soorajkbabu.github.io/category/haptics/</link>
+    </image>
+    
+    <item>
+      <title>The Bar Bending Simulator</title>
+      <link>https://soorajkbabu.github.io/project/barbending/</link>
+      <pubDate>Fri, 15 May 2020 23:54:34 +0530</pubDate>
+      <guid>https://soorajkbabu.github.io/project/barbending/</guid>
+      <description>&lt;p&gt;The bar bending simulator is used to train rebar bending skills for personnel that form a critical workforce component of the construction industry. This simulator has been deployed in four Larsen and Toubro Construction Skills Training Institutes in Tamil Nadu, Uttar Pradesh, Kolkata and Hyderabad, where it is being utilized to prepare personnel for the rebar bending activity.&lt;/p&gt;
+&lt;p&gt;Read more: &lt;a href=&#34;http://ammachilabs.org/the-next-wave-of-haptic-simulators-at-ammachi-labs-the-bar-bending-simulator/&#34;&gt;http://ammachilabs.org/the-next-wave-of-haptic-simulators-at-ammachi-labs-the-bar-bending-simulator/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exposure therapy | Sooraj K Babu</title>
+    <link>https://soorajkbabu.github.io/tag/exposure-therapy/</link>
+      <atom:link href="https://soorajkbabu.github.io/tag/exposure-therapy/index.xml" rel="self" type="application/rss+xml" />
+    <description>exposure therapy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 13:44:58 +0530</lastBuildDate>
+    <image>
+      <url>https://soorajkbabu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>exposure therapy</title>
+      <link>https://soorajkbabu.github.io/tag/exposure-therapy/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Reality for Communication Skills Training</title>
+      <link>https://soorajkbabu.github.io/project/vret/</link>
+      <pubDate>Fri, 15 May 2020 13:44:58 +0530</pubDate>
+      <guid>https://soorajkbabu.github.io/project/vret/</guid>
+      <description>&lt;p&gt;Virtual Reality, as a technology has the potential to manipulate human senses. Here, we explored the concept of Exposure Therapy with virtual reality to see if can be used as a tool to train university students on communication skills. Especially, in public speaking.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

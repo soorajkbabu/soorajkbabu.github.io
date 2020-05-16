@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Thinking | Sooraj K Babu</title>
+    <link>https://soorajkbabu.github.io/category/computational-thinking/</link>
+      <atom:link href="https://soorajkbabu.github.io/category/computational-thinking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Thinking</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 May 2020 00:22:12 +0530</lastBuildDate>
+    <image>
+      <url>https://soorajkbabu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Computational Thinking</title>
+      <link>https://soorajkbabu.github.io/category/computational-thinking/</link>
+    </image>
+    
+    <item>
+      <title>Kappa: The Tangible Electronic Prototyping Kit to promote Tinkering among school children</title>
+      <link>https://soorajkbabu.github.io/project/kappa/</link>
+      <pubDate>Sat, 16 May 2020 00:22:12 +0530</pubDate>
+      <guid>https://soorajkbabu.github.io/project/kappa/</guid>
+      <description>&lt;p&gt;Kappa is a capacitive touching sensing Arduino shield which is designed to help students create tangible interfaces with conductive materials. The project was inspired by MIT’s Makey Makey and seeks to bring the creative possibilities of the Makey Makey in a cost-effective form with a price point of less than 1 USD. Kappa has reached more than a 100 students around South India as a part of the AMMACHI labs’s workshops on Computational Thinking.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

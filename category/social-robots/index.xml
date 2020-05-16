@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Robots | Sooraj K Babu</title>
+    <link>https://soorajkbabu.github.io/category/social-robots/</link>
+      <atom:link href="https://soorajkbabu.github.io/category/social-robots/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Robots</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 15:02:33 +0530</lastBuildDate>
+    <image>
+      <url>https://soorajkbabu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Social Robots</title>
+      <link>https://soorajkbabu.github.io/category/social-robots/</link>
+    </image>
+    
+    <item>
+      <title>Pepe: The robot that encourages children to wash their hands</title>
+      <link>https://soorajkbabu.github.io/project/pepe/</link>
+      <pubDate>Fri, 15 May 2020 15:02:33 +0530</pubDate>
+      <guid>https://soorajkbabu.github.io/project/pepe/</guid>
+      <description>&lt;p&gt;Pepe is a social robot designed to teach proper handwashing method to rural Indian students. This was a joint project with Dr. Amol Deshmukh from the University of Glasgow. Around 100 children were engaged and trained on safe and effective handwashing behavior in a rural village in Govt. Primary School, Chithragiri, Wayanad, Kerala, India.&lt;/p&gt;
+&lt;p&gt;Also, Pepe won the Socialis Impremiere robotic competition at Ro-MAN 2019, Delhi.&lt;/p&gt;
+&lt;p&gt;Feature on BBC: &lt;a href=&#34;https://www.bbc.com/news/av/technology-51360642/could-a-hand-washing-robot-help-save-lives&#34;&gt;https://www.bbc.com/news/av/technology-51360642/could-a-hand-washing-robot-help-save-lives&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Feature on IEEE Spectrum: &lt;a href=&#34;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-teaches-kids-hand-washing-skills-in-rural-india&#34;&gt;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-teaches-kids-hand-washing-skills-in-rural-india&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

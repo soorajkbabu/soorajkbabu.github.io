@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sooraj Krishna | Sooraj K Babu</title>
+    <link>https://soorajkbabu.github.io/author/sooraj-krishna/</link>
+      <atom:link href="https://soorajkbabu.github.io/author/sooraj-krishna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sooraj Krishna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://soorajkbabu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sooraj Krishna</title>
+      <link>https://soorajkbabu.github.io/author/sooraj-krishna/</link>
+    </image>
+    
+    <item>
+      <title>Design and Emotional Evaluation of Pepe Jr: A Cost-Effective Platform For Human Robot Interaction Studies</title>
+      <link>https://soorajkbabu.github.io/publication/shanker-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://soorajkbabu.github.io/publication/shanker-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual reality learning environments for vocational education: A comparison study with conventional instructional media on knowledge retention.</title>
+      <link>https://soorajkbabu.github.io/publication/babu-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://soorajkbabu.github.io/publication/babu-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

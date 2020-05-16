@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtual reality | Sooraj K Babu</title>
+    <link>https://soorajkbabu.github.io/tag/virtual-reality/</link>
+      <atom:link href="https://soorajkbabu.github.io/tag/virtual-reality/index.xml" rel="self" type="application/rss+xml" />
+    <description>virtual reality</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 23:18:33 +0530</lastBuildDate>
+    <image>
+      <url>https://soorajkbabu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>virtual reality</title>
+      <link>https://soorajkbabu.github.io/tag/virtual-reality/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Motorbike Maintenance Course</title>
+      <link>https://soorajkbabu.github.io/project/motorbike/</link>
+      <pubDate>Fri, 15 May 2020 23:18:33 +0530</pubDate>
+      <guid>https://soorajkbabu.github.io/project/motorbike/</guid>
+      <description>&lt;p&gt;This project was an immersive version of the iconic motorbike maintenance course by AMMACHI Labs. The users were able to learn the names of different motorbike parts and perform various motorbike maintenance tasks such as exhause pipe removal and oil change by interacting with a virtual motorbike.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Reality for Communication Skills Training</title>
+      <link>https://soorajkbabu.github.io/project/vret/</link>
+      <pubDate>Fri, 15 May 2020 13:44:58 +0530</pubDate>
+      <guid>https://soorajkbabu.github.io/project/vret/</guid>
+      <description>&lt;p&gt;Virtual Reality, as a technology has the potential to manipulate human senses. Here, we explored the concept of Exposure Therapy with virtual reality to see if can be used as a tool to train university students on communication skills. Especially, in public speaking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#39;Was It Real?&#39;-The Effects of Virtual Reality Communication Skills Training among University Students in India</title>
+      <link>https://soorajkbabu.github.io/publication/alkoyak-yildiz-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://soorajkbabu.github.io/publication/alkoyak-yildiz-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual reality learning environments for vocational education: A comparison study with conventional instructional media on knowledge retention.</title>
+      <link>https://soorajkbabu.github.io/publication/babu-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://soorajkbabu.github.io/publication/babu-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

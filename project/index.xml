@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sooraj K Babu</title>
+    <link>https://soorajkbabu.github.io/project/</link>
+      <atom:link href="https://soorajkbabu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 May 2020 00:22:12 +0530</lastBuildDate>
+    <image>
+      <url>https://soorajkbabu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://soorajkbabu.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Kappa: The Tangible Electronic Prototyping Kit to promote Tinkering among school children</title>
+      <link>https://soorajkbabu.github.io/project/kappa/</link>
+      <pubDate>Sat, 16 May 2020 00:22:12 +0530</pubDate>
+      <guid>https://soorajkbabu.github.io/project/kappa/</guid>
+      <description>&lt;p&gt;Kappa is a capacitive touching sensing Arduino shield which is designed to help students create tangible interfaces with conductive materials. The project was inspired by MIT’s Makey Makey and seeks to bring the creative possibilities of the Makey Makey in a cost-effective form with a price point of less than 1 USD. Kappa has reached more than a 100 students around South India as a part of the AMMACHI labs’s workshops on Computational Thinking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Bar Bending Simulator</title>
+      <link>https://soorajkbabu.github.io/project/barbending/</link>
+      <pubDate>Fri, 15 May 2020 23:54:34 +0530</pubDate>
+      <guid>https://soorajkbabu.github.io/project/barbending/</guid>
+      <description>&lt;p&gt;The bar bending simulator is used to train rebar bending skills for personnel that form a critical workforce component of the construction industry. This simulator has been deployed in four Larsen and Toubro Construction Skills Training Institutes in Tamil Nadu, Uttar Pradesh, Kolkata and Hyderabad, where it is being utilized to prepare personnel for the rebar bending activity.&lt;/p&gt;
+&lt;p&gt;Read more: &lt;a href=&#34;http://ammachilabs.org/the-next-wave-of-haptic-simulators-at-ammachi-labs-the-bar-bending-simulator/&#34;&gt;http://ammachilabs.org/the-next-wave-of-haptic-simulators-at-ammachi-labs-the-bar-bending-simulator/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Motorbike Maintenance Course</title>
+      <link>https://soorajkbabu.github.io/project/motorbike/</link>
+      <pubDate>Fri, 15 May 2020 23:18:33 +0530</pubDate>
+      <guid>https://soorajkbabu.github.io/project/motorbike/</guid>
+      <description>&lt;p&gt;This project was an immersive version of the iconic motorbike maintenance course by AMMACHI Labs. The users were able to learn the names of different motorbike parts and perform various motorbike maintenance tasks such as exhause pipe removal and oil change by interacting with a virtual motorbike.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pepe: The robot that encourages children to wash their hands</title>
+      <link>https://soorajkbabu.github.io/project/pepe/</link>
+      <pubDate>Fri, 15 May 2020 15:02:33 +0530</pubDate>
+      <guid>https://soorajkbabu.github.io/project/pepe/</guid>
+      <description>&lt;p&gt;Pepe is a social robot designed to teach proper handwashing method to rural Indian students. This was a joint project with Dr. Amol Deshmukh from the University of Glasgow. Around 100 children were engaged and trained on safe and effective handwashing behavior in a rural village in Govt. Primary School, Chithragiri, Wayanad, Kerala, India.&lt;/p&gt;
+&lt;p&gt;Also, Pepe won the Socialis Impremiere robotic competition at Ro-MAN 2019, Delhi.&lt;/p&gt;
+&lt;p&gt;Feature on BBC: &lt;a href=&#34;https://www.bbc.com/news/av/technology-51360642/could-a-hand-washing-robot-help-save-lives&#34;&gt;https://www.bbc.com/news/av/technology-51360642/could-a-hand-washing-robot-help-save-lives&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Feature on IEEE Spectrum: &lt;a href=&#34;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-teaches-kids-hand-washing-skills-in-rural-india&#34;&gt;https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-teaches-kids-hand-washing-skills-in-rural-india&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Reality for Communication Skills Training</title>
+      <link>https://soorajkbabu.github.io/project/vret/</link>
+      <pubDate>Fri, 15 May 2020 13:44:58 +0530</pubDate>
+      <guid>https://soorajkbabu.github.io/project/vret/</guid>
+      <description>&lt;p&gt;Virtual Reality, as a technology has the potential to manipulate human senses. Here, we explored the concept of Exposure Therapy with virtual reality to see if can be used as a tool to train university students on communication skills. Especially, in public speaking.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
